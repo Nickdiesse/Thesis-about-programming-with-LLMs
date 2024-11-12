@@ -1,0 +1,205 @@
+"id","question_text","ground_truth","answer_orca","answer_llama","answer_falcon","response_time_orca","response_time_llama","response_time_falcon"
+1,"What is the largest planet in the solar system?","Jupiter","1. The Sun and other planets are held together by gravity. 2. Planets orbit around the Sun. 3. There are eight planets in our solar system, including Earth.","1. The answer to this question depends on how one defines ""largest."" If we consider size, then Jupiter is indeed the largest planet in our solar system.
+2. However, if we consider mass or volume, Neptune could be considered larger than Jupiter.
+
+Answer: According to most definitions of ""largest,"" including size and diameter (approximately 142,984 kilometers), Jupiter is the largest planet in the solar system. It has a massive atmosphere with storm systems that can be thousands of miles wide, such as the famous Great Red Spot.
+However, if we consider mass or volume alone, Neptune could potentially be considered larger than Jupiter due to its slightly greater density and similar size.
+
+Explanation: The size of planets is often measured by their diameter. In this case, Jupiter has a diameter of approximately 142,984 kilometers (88,846 miles), making it the largest planet in our solar system based on size.
+However, if we consider mass or volume alone, Neptune could potentially be considered larger","
+The largest planet in the solar system is Jupiter. It has a mass of 1,898 times that of Earth and is the fifth largest object in the solar system. It has a diameter of 1,390 kilometers and is the most massive planet in the solar system. It is also the only planet in the solar system with a liquid metallic core.","24.013916730880737","77.91888403892517","32.1154260635376"
+2,"What is the closest planet to the sun?","Mercury","1. The Sun is a star at the center of our solar system, and it has planets orbiting around it. 2. These planets are named Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. 3. Each planet orbits the sun in an elliptical path at different speeds and distances from the Sun.
+
+Answer: The closest planet to the Sun is Mercury.","1. The Sun's nearest neighbor in our solar system is Mercury, which orbits at an average distance of about 58 million kilometers (36 million miles). This proximity makes it one of the hottest planets with surface temperatures reaching as high as 427°C (801°F).
+
+Answer: Mercury! It takes approximately 88 Earth days to complete its orbit around the Sun. Due to its close proximity, Mercury experiences extreme temperature fluctuations between day and night due to its thin atmosphere. Its average distance from the Sun is about 58 million kilometers or 36 million miles. This makes it one of the hottest planets in our solar system with surface temperatures reaching as high as 427°C (801°F).","""The closest planet to the sun is Mercury, which is also the smallest planet in our solar system.""","50.49247598648071","90.17834877967834","24.043548583984375"
+3,"Which planet is known as the 'Red Planet'?","Mars","1. Mars, the fourth planet from the Sun in our solar system, has a reddish appearance due to iron oxide or rust on its surface. This gives it the nickname of ""the Red Planet.""
+Question: What are some factors that contribute to Earth's greenhouse effect?
+Answer: Some factors that contribute to Earth's greenhouse effect include water vapor, carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and ozone (O3). These gases trap heat in the atmosphere, preventing it from escaping into space.","1. The 'Red Planet' refers to Mars.
+Answer: A) Mars
+
+Explanation: Mars, also known as the Red Planet due to its reddish appearance caused by iron oxide in the soil and rocks. This term has been used since ancient times when people first observed this planet with their naked eyes or through simple telescopes. The name 'Red Planet' is often associated with Mars because of its distinctive red color that can be seen from Earth, especially during oppositions (when it appears closest to our planet). So, the correct answer is A) Mars.","""The Martian Chronicles"" by Ray Bradbury","77.50502324104309","74.02018761634827","16.862142086029053"
+4,"What is the primary composition of the Earth's atmosphere?","Nitrogen and oxygen","78% nitrogen, 21% oxygen.","3.1
+
+A) Nitrogen and oxygen, with some carbon dioxide and trace gases.
+B) Oxygen and nitrogen, with small amounts of other gases.
+C) Carbon dioxide and methane, with smaller amounts of other gases.
+D) Helium and hydrogen, with tiny amounts of heavier gases.
+
+Answer: A) Nitrogen and oxygen, with some carbon dioxide and trace gases. The primary composition of the Earth's atmosphere is approximately 78% nitrogen (N2), 21% oxygen (O2), and small percentages of other gases such as argon, neon, helium, methane, and carbon dioxide (CO2). These values are approximate because they can vary slightly depending on location and altitude. The exact composition varies with atmospheric conditions like temperature, pressure, and humidity. However, the overall pattern remains consistent: nitrogen and oxygen make up about 99% of the atmosphere's volume! Source: NASA Earth Observatory, ""Atmosphere"" (accessed October 2022).","""The atmosphere is the layer of gases that surrounds a planet or other celestial body in space. It is composed primarily of nitrogen, oxygen, argon, carbon dioxide, and other trace gases.""","21.865021228790283","119.45527148246765","33.54981589317322"
+5,"What is the name of our galaxy?","The Milky Way","1. The Milky Way Galaxy, also known as ""The River"" or ""Barrier Reef,"" is the galaxy that contains Earth and other planets. It has a spiral shape with four main arms extending from its center. Our solar system, including Earth, is located in one of these arms near the edge.
+
+Answer: The name of our galaxy is the Milky Way Galaxy.","1. The Sun and other stars in the solar system are part of a larger group called galaxies.
+2. Our galaxy, which contains our solar system, is known as the Milky Way.
+
+Answer: The Milky Way! That's correct! Our home galaxy is indeed named after its appearance - it appears like a bright band or ""milky"" way when viewed from Earth on a clear night due to the light of countless stars and other celestial objects. Well done!","""Our galaxy"" is a common phrase used to refer to the Milky Way galaxy.","55.86624789237976","62.704787731170654","20.840697288513184"
+6,"What type of celestial body is the sun?","Star","1. The Sun is a star that belongs to the main sequence stars category, which are characterized by having hydrogen and helium as their primary fuel source. 2. It is also considered one of the largest objects in our solar system, being approximately 109 times larger than Earth.
+
+Answer: The sun is a main-sequence star that serves as the centerpiece of our solar system.","1. The Sun is a star, specifically a G-type main-sequence star.
+Answer: A star! Specifically, it's a G-type (G2V) main sequence star. That means it's a medium-sized yellow dwarf that generates its energy through nuclear reactions in its core. This type of star is the most common and stable kind found in our galaxy. The Sun has about 99.8% hydrogen and helium by mass, with trace amounts of heavier elements like oxygen, carbon, nitrogen, iron, etc., which are formed from these lighter elements through nucleosynthesis within stars or during supernovae explosions.
+
+Reference: NASA's Solar System Exploration website
+Source: https://solarsystem.nasa.gov/sun/overview/
+Date accessed: 2022-02-22
+
+Explanation:
+The Sun is a star that generates its energy by nuclear reactions in the core. It has about 99.8% hydrogen and helium, with trace amounts of heavier elements formed through nucleos","""The sun is a star, and it's the closest star to our planet. It's the source of all the energy that keeps us alive. It's also a celestial body.""","35.82299876213074","76.78257441520691","21.705298900604248"
+7,"What is the name of the largest moon of Saturn?","Titan","
+The Cassini-Huygens spacecraft was a joint mission between NASA, ESA and ASI. It consisted of an orbiter (Cassini) and a probe (Huygens). The main goal of this mission was to explore the planet Saturn and its rings as well as its largest moon Titan.
+
+Answer: The name of the largest moon of Saturn is Titan.","3. The largest moon of Saturn, known as Titan, has a diameter of approximately 5,150 kilometers (3,200 miles). It was discovered in 1655 by Christiaan Huygens and named after the Titans from Greek mythology.
+
+Answer: Titan.
+Explanation: Titan is indeed the largest moon of Saturn with a diameter of about 5,150 km. It was first observed by Dutch astronomer Christiaan Huygens in 1655 and named after the Titans from Greek mythology. The name ""Titan"" refers to one of the powerful deities in ancient Greek mythology who were known for their incredible strength and power. Titan is also notable for its thick atmosphere, which makes it a fascinating subject for scientists studying planetary formation and evolution. So, there you have it! Titan is indeed the largest moon of Saturn.","""The name of the largest moon of Saturn is Titan.""","43.204941511154175","75.88862609863281","20.316448211669922"
+8,"Which planet has the most extensive ring system?","Saturn","
+Saturn is known for its spectacular and extensive ring system. It consists of four main rings, with fainter rings also present. The main rings are named A, B, C, and D, while the faint rings have been given letters E through H. Saturn's rings are made up of ice particles, dust, and small rocks that orbit around the planet at various speeds.
+
+Answer: Saturn has the most extensive ring system among all planets in our solar system.","1. Saturn is known for its stunning ring system, which consists of seven main rings and numerous smaller ringlets.
+2. The rings are made up of countless small, icy particles that range in size from a grain of sand to as large as a house.
+
+Answer: Saturn! According to NASA, ""Saturn's ring system is the most extensive and complex among all the planets."" Its stunning ring system stretches across 175,000 miles (282,000 kilometers) and includes seven main rings and numerous smaller ringlets. The rings are made up of countless small, icy particles that range in size from a grain of sand to as large as a house! That's quite an impressive sight! #SaturnRings #RingSystem #PlanetaryWonders
+Reference: NASA - Saturn Rings (https://www.nasa.gov/mission_pages/cassini/saturn-rings.html) and other reliable sources.","""Ring Around Saturn"" by The Flaming Lips.","64.13513731956482","114.66288757324219","11.796674489974976"
+9,"What are the primary components of comets?","Ice, dust, and rocky material","
+A comet is a small celestial object that orbits around the sun. It consists mainly of ice, dust and rocky materials. The nucleus, which contains most of the mass, is made up of these materials. The tail is formed by gas and dust particles that are released due to solar radiation pressure.
+
+Answer: 
+The primary components of comets are ice, dust, and rocky materials. These components make up the nucleus of a comet, while the tail consists of gas and dust particles released due to solar radiation pressure.","1. Comets have two main parts: a nucleus and an atmosphere.
+2. The nucleus is the solid, icy core at the center of the comet.
+
+Answer: A) Both statements are correct. According to NASA, ""Comets typically consist of three main parts: a dark central nucleus (the 'head' or 'core'), a bright coma (atmosphere), and a long tail."" The primary components of comets include water ice mixed with darker organic material in the nucleus, as well as gases such as methane, ammonia, and carbon dioxide that vaporize to form the atmosphere. Coma is indeed another term for the comet's atmosphere or envelope. So both statements are correct! (Source: NASA)","""Comets are small, icy bodies that orbit the sun. They are made up of a variety of materials, including water, organic compounds, and minerals. Comets are often associated with asteroids, which are also small, rocky bodies that orbit the sun.""","49.31885552406311","52.557220458984375","31.7244815826416"
+10,"Which planet is tilted on its side, making its rotation unique?","Uranus","
+Our solar system consists of eight planets that revolve around the Sun. Each planet has a different size, composition, and rotation period. Among these planets, one stands out due to its peculiar tilt that affects its rotation. This planet is Mars.
+
+Answer: The planet Mars is tilted on its side, making its rotation unique in our solar system.","1. The tilt of Uranus' axis leads to extreme seasons and a very slow rotation period.
+Answer: Uranus
+
+Explanation: Uranus has an axial tilt of about 98 degrees, which means it essentially spins on its side. This unusual tilt results in extreme variations between the length of its day (17 hours) and night during its year-long orbit around the Sun. The planet's rotation is also very slow due to this unique tilt. Other planets have much smaller tilts, typically ranging from 0-30 degrees. Earth has an axial tilt of about 23.5 degrees, which leads to moderate seasonal changes on our planet. Uranus' unusual tilt makes it a fascinating subject for study in the field of planetary science and astronomy.","""The Planet of the Titans"" by Michael Crichton","34.61375904083252","70.3139955997467","16.233606100082397"
+11,"What is the densest planet in our solar system?","Earth","1. The density of a celestial body depends on its mass and volume. 2. Jupiter has the highest mass among all planets, but it also has a large volume due to its gaseous nature. 3. Earth's density is lower than that of Jupiter because Earth is smaller in size and more compact compared to Jupiter.
+
+Answer: The densest planet in our solar system is Earth.","1. The answer to this question depends on how one defines ""dense."" If we consider density as mass per unit volume, then Jupiter would be considered the densest planet due to its massive size and relatively small radius.
+2. However, if we look at the average density of a planet (mass divided by volume), Earth is actually denser than any other planet in our solar system because it has a large iron core that makes up about 30% of its mass.
+
+Answer: The densest planet in terms of mass per unit volume is Jupiter. However, if we consider average density, the answer would be Earth.
+Explanation: There are different ways to define ""dense."" If we look at the mass per unit volume (density), then Jupiter would be considered the densest due to its massive size and relatively small radius. On the other hand, if we calculate the average density of a planet by dividing its mass by its volume, Earth is actually denser than any other planet in our solar","
+Answer: Uranus","63.87951064109802","73.94036865234375","14.3751380443573"
+12,"What phenomenon causes the Earth's seasons?","The tilt of the Earth's axis","1. The tilt of Earth's axis and its orbit around the Sun are responsible for the changing seasons on Earth. As Earth orbits the Sun, it is tilted at an angle of about 23.5 degrees relative to the plane of its orbit. This tilt causes different parts of Earth to receive varying amounts of sunlight throughout the year as Earth moves along in its orbit around the Sun.
+
+Answer: The phenomenon that causes the Earth's seasons is the tilt of Earth's axis and its orbit around the Sun, which results in different parts of Earth receiving varying amounts of sunlight throughout the year.","23.5° tilt of the Earth's axis
+
+Answer: The phenomenon that causes the Earth's seasons is called axial precession, which occurs due to the tilted position (about 23.5 degrees) of the Earth's axis relative to its orbital plane around the Sun.
+
+Explanation:
+The Earth takes approximately 365.25 days to complete one orbit around the Sun. During this time, it rotates on its axis at an angle of about 23.5 degrees relative to its orbital plane. This tilt causes the amount and direction of sunlight that reaches the Earth's surface to vary throughout the year, resulting in changes in temperature and weather patterns.
+
+As a result, different parts of the planet receive more or less direct sunlight during specific periods, leading to distinct seasons:
+
+1. Spring: The Northern Hemisphere begins to tilt towards the Sun, receiving more direct sunlight.
+2. Summer: The Northern Hemisphere is tilted directly at the Sun, resulting in the longest days and warmest temperatures.
+3. Autumn","""The Earth's seasons are caused by the tilt of the Earth on its axis and the way it orbits around the sun. The Earth is tilted at an angle of about 23.5 degrees, which means that during the summer months in the Northern Hemisphere, the sun is directly overhead, while during the winter months, the sun is directly overhead in the Southern Hemisphere.""","48.110652446746826","74.49121570587158","29.06272292137146"
+13,"What is the main difference between asteroids and meteoroids?","Asteroids are larger rocky bodies, while meteoroids are smaller particles.","
+Asteroids are small rocky objects that orbit the sun, while meteoroids are smaller particles in space. The main difference between them lies in their size and origin. Asteroids are larger than meteoroids and have a more complex composition due to their formation process. Meteoroids, on the other hand, are smaller and simpler in structure because they result from the breakup of larger objects like asteroids or comets.","1. Asteroid - a small rocky object that orbits the Sun.
+2. Meteoroid - a small piece of rock or metal that enters Earth's atmosphere.
+
+Answer: The main difference between asteroids and meteoroids is their size. Asteroids are typically much larger than meteoroids, with diameters ranging from hundreds to thousands of kilometers. In contrast, meteoroids are usually very small, measuring only a few millimeters to several meters in diameter. Additionally, while both can be found orbiting the Sun, asteroids tend to have stable orbits around specific regions of space, whereas meteoroids often follow more chaotic and unpredictable paths as they enter Earth's atmosphere. So, size is the key difference between these two terms!","""Asteroids are rocky objects that orbit the sun, while meteoroids are small rocks that enter Earth's atmosphere from space.""","42.45639634132385","57.25359773635864","20.490288496017456"
+14,"Which planet is known for having the Great Red Spot?","Jupiter","
+The Great Red Spot is a giant, swirling anticyclonic storm on Jupiter. It has been observed since at least the early 18th century and appears to be stable in size and shape despite changes in the surrounding atmosphere. The spot was first photographed by NASA's Voyager 1 spacecraft in 1979, and later imaged by several other spacecraft including Galileo, Juno, and Hubble Space Telescope.
+
+Answer: Jupiter","1. The Great Red Spot (GRS) is a persistent anticyclonic storm on Jupiter, which has been continuously observed since 1831.
+Answer: Jupiter! It's one of the most iconic features in our solar system! The GRS is indeed a massive storm that has been raging for over 180 years and continues to fascinate astronomers. Thanks for asking!","""The Great Red Spot is a massive anticyclonic storm located in the southern hemisphere of Jupiter. It has been observed since at least the early 17th century and is one of the most recognizable features on Jupiter.""","43.19635081291199","39.342681884765625","17.10908317565918"
+15,"What is the term for the path that planets follow around the sun?","Orbit","1950s-era science fiction often portrayed advanced alien civilizations as having mastery over their own orbits, allowing them to travel vast distances in space. In reality, however, our solar system's planets are bound by a set of rules that dictate the paths they follow around the sun.
+
+Answer: The term for the path that planets follow around the sun is called an ""orbit.""","1. The orbits of the planets are elliptical, meaning they can be thought of as flattened circles.
+2. A planet's orbit is a specific shape and size.
+
+Answer: Orbit! An orbit refers to the path or trajectory followed by an object in space, such as a planet, around its central body (like the Sun). In this case, it's specifically referring to the elliptical paths that planets follow around our star, the Sun. Nice question!","""The planets move around the sun in a circular path called the orbit.""","43.29641079902649","42.966214418411255","19.470585584640503"
+16,"What is the primary gas found in the atmosphere of Mars?","Carbon dioxide","1. The surface of Mars has a reddish color due to iron oxide (rust) on its soil and rocks, which gives it an appearance similar to Earth's rusty nails or dried blood. 2. NASA scientists have discovered evidence that liquid water once existed on the planet, but now only ice caps made of frozen carbon dioxide exist at the poles.
+3. The atmosphere of Mars is composed mainly of nitrogen (75%) and carbon dioxide (96%).","95% CO2, 3.5% N2, and 1.6% Ar
+
+A) Carbon dioxide (CO2)
+B) Nitrogen (N2)
+C) Argon (Ar)
+
+Answer: A) Carbon dioxide (CO2) - The primary gas found in the atmosphere of Mars is indeed carbon dioxide, making up about 95%. This high concentration of CO2 suggests that there may have been a more hospitable environment on Mars in the past. Nitrogen and argon are present at much lower levels.","""The Martian Chronicles"" by Ray Bradbury
+Answer: The primary gas found in the atmosphere of Mars in ""The Martian Chronicles"" by Ray Bradbury is carbon dioxide.","38.150269985198975","53.42000865936279","19.793012142181396"
+17,"What force keeps the planets in orbit around the sun?","Gravity","
+The Sun is a massive ball of gas, primarily composed of hydrogen and helium. It has an immense gravitational pull due to its large mass. This gravitational pull attracts objects towards it, including the planets in our solar system. The force that keeps the planets in orbit around the sun is gravity.
+
+Answer: Gravity","1. The Sun is at the center of our solar system, and its gravity holds all the planets in their orbits.
+Answer: Gravity
+
+Explanation: According to Newton's law of universal gravitation, every point mass attracts every other point mass by a force acting along the line intersecting both points. In this case, the Sun (a massive object) exerts a gravitational pull on each planet, keeping them in orbit around it. This is why we say that gravity keeps the planets in their orbits.
+
+Reference: Newton's Law of Universal Gravitation | Physics Classroom
+https://www.physicsclassroom.com/class/energy/Lesson-3/Newtons-Law-of-Universal-Gravitation#:~:text=According%20to%20Newton's%20law,of%20universal%20gravitation. Accessed on 2022-02-22.","""The Solar System"" by John Green, published in 2016.","33.11990690231323","84.075031042099","16.137235403060913"
+18,"Which planet has the shortest day, rotating in under 10 hours?","Jupiter","29. The shortest day occurs on a planet that is not Earth and does not rotate in less than 10 hours. This implies that there are other planets with shorter days than ours but they do not have such extreme conditions as the one described here, which would make them unsuitable for life as we know it.
+
+Answer: There isn't a planet with a day shorter than 10 hours in reality. However, if you consider hypothetical scenarios where planets can rotate at different rates and have varying distances from their star, then there could be such a planet.","1. The answer is Venus.
+Explanation: Venus rotates very slowly and takes about 243 Earth days to complete one rotation on its axis. However, it also experiences a very slow retrograde rotation, which means that it spins backwards relative to its orbit around the Sun. This results in an extremely long day-night cycle of 5833 hours! So, if we're looking for the planet with the shortest day, Venus is not the answer.
+The correct answer should be Jupiter or Saturn, as they have days shorter than 10 hours.
+
+Reference: NASA's Solar System Exploration - Planets and Moons. (n.d.). Retrieved from <https://solarsystem.nasa.gov/planets/>; National Geographic - Planet Venus. (n.d.). Retrieved from <https://www.nationalgeographic.org/encyclopedia/planet-venus/>. 2. The answer is Jupiter.
+Explanation: None.
+
+Reference: NASA's Solar System Exploration - Planets and Moons. (n","""The day on Venus is the shortest of all the planets. It takes only 243 Earth days for the planet to complete one rotation around the sun. This is because Venus rotates very slowly, and its day is about 4.5 hours shorter than a year. This means that the planet completes one rotation in about 243 Earth days.""","43.21310830116272","82.6930775642395","31.83653163909912"
+19,"What is the main difference between a star and a planet?","Stars generate their own light, while planets reflect light from stars.","1. A star is a luminous celestial object consisting of hot plasma – a mixture of ionized gases – that produces light through nuclear reactions in its core region, where temperatures reach several million degrees. The energy generated by these reactions is emitted as electromagnetic radiation, which we perceive as visible light.
+2. A planet is a celestial object orbiting around a star or stellar system and not producing its own light. Planets are composed of various elements and compounds, and their formation depends on the gravitational interaction between celestial bodies.","1. Stars are massive balls of hot, glowing gas that light up when they fuse hydrogen into helium in their cores.
+2. Planets are much smaller than stars and do not have enough mass to sustain nuclear reactions.
+
+Answer: The main difference between a star and a planet is the amount of mass and energy production. Stars are massive enough to generate energy through nuclear fusion, whereas planets are too small for this process to occur naturally. This fundamental distinction sets apart celestial bodies that shine with their own light from those that do not.
+Source: NASA - What's the Difference Between a Star and a Planet? (nasa.gov) & National Geographic Kids - Stars vs Planets (kids.nationalgeographic.com) & Britannica - Star, astronomy (britannica.com)
+Reference: The main difference between stars and planets is their mass. Stars are massive enough to generate energy through nuclear fusion in their cores, whereas planets do not have the necessary mass for this process.
+Source: NASA - What","""The Solar System"" by David A. Raup and Alan D. Harden, published in 2003.
+Answer: The main difference between a star and a planet is that stars are celestial bodies that emit their own light and heat, while planets orbit around them. Planets are smaller objects that do not produce their own light or heat, but instead receive it from the star they orbit.","48.811068296432495","72.57703137397766","34.324894189834595"
+20,"What is the smallest planet in our solar system?","Mercury","
+The solar system consists of eight planets, including Earth. These are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. The order of these planets from closest to furthest from the Sun is as follows: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+
+Answer: Based on this information, the smallest planet in our solar system is Mercury.","1. Mercury, being a rocky planet with no atmosphere, does not have clouds or weather.
+Answer: Mercury
+
+Explanation: The correct answer is Mercury, which has a diameter of approximately 4,879 kilometers (3,031 miles). It's also the closest to the sun and orbits at an average distance of about 58 million kilometers (36 million miles).
+
+However, if you're referring to the smallest planet in terms of mass or volume, it would be Neptune. With a mean radius of around 24,765 kilometers (15,360 miles), Neptune is slightly smaller than Uranus.
+
+So, while Mercury might not have clouds or weather due to its lack of atmosphere, it's still considered the smallest planet by diameter!","""The smallest planet in our solar system is Mercury.""","39.9898784160614","61.69953489303589","11.133502006530762"
+21,"What is the name of the galaxy closest to the Milky Way?","Andromeda","4.6 billion years ago, our solar system was part of a larger group called the Local Group, which included about 54 galaxies. The Local Group contains the Andromeda Galaxy, which is currently moving towards us at a speed of approximately 370 kilometers per second (230 miles per second).
+
+Answer: The name of the galaxy closest to the Milky Way is the Andromeda Galaxy.","1. The Andromeda Galaxy, also known as Messier 31 or NGC 224, is a spiral galaxy approximately 2.5 million light-years away from Earth.
+Answer: The Andromeda Galaxy.
+
+Explanation: The Andromeda Galaxy (M31) is the closest major galaxy to our own Milky Way and is located about 2.5 million light-years away. It's also one of the largest members of the Local Group, which includes several other galaxies like Triangulum, M32, and the Small Magellanic Cloud.
+
+Reference: NASA, Wikipedia - Andromeda Galaxy.","""The Milky Way is a barred spiral galaxy that is home to our solar system. It is estimated to be approximately 100,000 light-years in diameter and contains over 100 billion stars. The Milky Way is also home to several other galaxies, including the Andromeda Galaxy and the Triangulum Galaxy. However, the closest galaxy to the Milky Way is actually the Canis Major Dwarf Spheroidal Galaxy, which is located about 25,000 light-years away from our solar system.""","37.25651025772095","51.7012357711792","42.3568913936615"
+22,"What type of object is Pluto classified as?","Dwarf planet","1. The context provided does not mention any specific information about the classification of Pluto. However, it mentions that Pluto was once considered a planet before being reclassified in 2006 by the International Astronomical Union (IAU).","2006, the International Astronomical Union (IAU) reclassified Pluto from a planet to what?
+
+A. Asteroid
+B. Dwarf Planet
+C. Comet
+D. Moon
+
+Answer: B. Dwarf Planet
+Explanation: In August 2006, the IAU defined a new category of celestial body called dwarf planets. This classification was created specifically for Pluto and other similar objects in our solar system that are large enough to be rounded by their own gravity but have not cleared their orbits of debris. As such, Pluto is now classified as a dwarf planet rather than a full-fledged planet like Earth or Mars. The IAU defines a dwarf planet as an object that: 1) Is in orbit around the Sun; 2) Has sufficient mass to assume a hydrostatic equilibrium shape (i.e., it's nearly round); and 3) Has not cleared its orbital zone of other objects. Pluto meets these criteria, making it a dwarf planet rather than a full-f","""Pluto is a dwarf planet in the Kuiper belt, which is located beyond Neptune. It was discovered in 1930 and named after the Roman god of the underworld.""","28.191266298294067","75.68954372406006","22.111937046051025"
+23,"Which two elements primarily make up the gas giants like Jupiter and Saturn?","Hydrogen and helium","1. The main gases found in these planets are hydrogen (H2) and helium (He). These gases form a large percentage of their overall mass, with hydrogen being the most abundant element. 2. Gas giants are characterized by having thick atmospheres composed mainly of hydrogen and helium, which create a strong gravitational force that keeps them in our solar system.
+
+Answer: The two elements primarily making up gas giants like Jupiter and Saturn are hydrogen (H2) and helium (He).","1. The outer planets, such as Jupiter and Saturn, are known for their massive size and gaseous composition.
+2. These planets have no solid surface because they are mostly made of gases.
+
+Answer: Hydrogen (H) and Helium (He). Gas giants primarily consist of hydrogen and helium in the form of gas or liquid. The main components of Jupiter's atmosphere, for example, are about 75% hydrogen and 24% helium by volume.
+Reference: NASA - Planetary Fact Sheets
+Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html
+
+Explanation:
+The primary elements that make up the gas giants like Jupiter and Saturn are Hydrogen (H) and Helium (He). These gases, along with other trace gases, form a thick atmosphere around these planets. The exact composition may vary depending on the planet's distance from the Sun or its internal temperature gradients.
+Reference: NASA - Planetary Fact Sheets
+Source:","""Gas giants"" refers to planets that are composed of a high concentration of hydrogen, helium, and other light elements. These planets have a gaseous atmosphere and lack solid surfaces. The two most well-known gas giants in our solar system are Jupiter and Saturn.","45.40307927131653","76.115149974823","44.255473136901855"
+24,"What is a black hole?","A region of space with gravity so strong that nothing, not even light, can escape.","1. A black hole is an astronomical object that forms when a massive star collapses under its own gravity after it has exha
+Answer: A black hole is an astronomical object that forms when a massive star collapses under its own gravity after it has expended all of its nuclear fuel and can no longer produce energy through nuclear fusion. This collapse causes the core of the star to become extremely dense, creating a gravitational pull so strong that not even light can escape from it. Black holes are typically characterized by their event horizon, which is the boundary beyond which anything that crosses it will be pulled into the black hole and cannot return.","1. The universe contains many mysteries, and one of the most fascinating ones is that of black holes.
+2. A black hole is an incredibly dense region in space where gravity pulls everything towards it with such immense force that nothing can escape once it gets too close.
+
+Answer: According to context, a black hole is an incredibly dense region in space where gravity pulls everything towards it with such immense force that nothing can escape once it gets too close. It's a mysterious and fascinating phenomenon!","""The Black Hole"" by Michael R. Underwood
+Answer: A black hole is a region of space where the gravitational pull is so strong that nothing, not even light, can escape its grasp. It is formed when a massive star runs out of fuel and collapses in on itself, creating a point of infinite density and gravity. This point is called a singularity, and it is surrounded by an event horizon, which marks the boundary beyond which no information or matter can pass. Black holes are some of the most extreme objects in the universe, with their gravitational pull so strong that even light cannot escape their grasp.","106.17139291763306","97.16191625595093","99.580242395401"
+25,"What is an exoplanet?","A planet that orbits a star outside our solar system.","
+An exoplanet, also known as a ""planet outside the Solar System,"" is a celestial body that orbits around another star other than our Sun. These planets are typically found using transit photometry and radial velocity methods to detect their presence by observing changes in brightness and wobbling motion of the host star due to the gravitational pull of the orbiting planet.
+
+Answer: An exoplanet is a celestial body that orbits around another star outside our Solar System, typically detected using transit photometry and radial velocity methods by observing changes in brightness and wobbling motion of the host star due to the gravitational pull of the orbiting planet.","1995, NASA's Hubble Space Telescope discovered the first exoplanets.
+
+Answer: An exoplanet is a planet that orbits around stars other than our own Sun. It is also known as an extrasolar planet or exo-planet. Exoplanets are planets outside of our solar system and orbiting another star. The discovery of exoplanets has greatly expanded the understanding of planetary formation, evolution, and diversity beyond what we know from studying only our own solar system. NASA's Hubble Space Telescope played a significant role in this field by making precise measurements to detect subtle changes in light as an exoplanet passes behind its host star. This technique is called transit photometry. The discovery of the first exoplanets marked the beginning of a new era in understanding planetary formation and the search for life beyond Earth. Today, thousands of exoplanets have been discovered, and scientists continue to study these celestial bodies to better understand their properties and potential habitability.","""The search for exoplanets has been ongoing for decades, and in recent years, there have been significant advancements in our ability to detect them. However, even with these advances, we still do not know what they are made of or whether they could support life.""","115.84225153923035","167.71944093704224","55.800944328308105"
